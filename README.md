@@ -1,1 +1,1 @@
-# DSMR-Smartmeter Österreich-Steiermark
+# DSMR-Smartmeter Energie-Steiermark
