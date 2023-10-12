@@ -1,1 +1,1 @@
-# DSMR-Smartmeter Energie-Steiermark
+# DSMR Samrtmeter mit Mqtt Energie-Steiermark
