@@ -1,4 +1,4 @@
-# DSMR Samrtmeter mit Mqtt Energie-Steiermark
+# DSMR Smartmeter mit Mqtt Energie-Steiermark
 
 Installation: </br>
 
