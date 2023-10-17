@@ -2,7 +2,7 @@
 Description=mytest
 After=network.target
 [Service]
-User=<Benutzer>>
+User=<Benutzer>
 WorkingDirectory= <Pfad zu Python Script>
 ExecStart=python3 <Python Sript>
 Restart=always
