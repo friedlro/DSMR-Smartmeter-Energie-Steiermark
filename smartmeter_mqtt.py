@@ -5,8 +5,8 @@ import paho.mqtt.client as mqtt
 from serial import Serial, PARITY_NONE, EIGHTBITS, STOPBITS_ONE
 from decode import decrypt_frame, convert_to_dict, check_and_encode_frame
 
-GLOBAL_UNICAST_ENC_KEY = ""
-GLOBAL_AUTHENTICATION_KEY = ""
+GLOBAL_UNICAST_ENC_KEY = "Hier deinen GUEK Key eintragen"
+GLOBAL_AUTHENTICATION_KEY = "Hier deinen GAK Key eintragen"
 MQTT_BROKER = "MQTT_BROKER_IP_OR_HOSTNAME"
 MQTT_PORT = 1883
 MQTT_TOPIC = "your/mqtt/topic"
