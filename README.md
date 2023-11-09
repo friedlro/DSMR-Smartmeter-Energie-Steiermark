@@ -10,6 +10,10 @@ CRYPTOGRAPHY_DONT_BUILD_RUST=1 </br>
 
 pip3 install -r requirements.txt
 
+Die Sicherheitsschlüssel "GLOBAL UNICAST ENCRYPTION KEY (GUEK)" und "GLOBAL AUTHENTICATION KEY (GAK)"</br>
+in das smartmeter.py oder wenn MQTT verwendet wird in smartmeter_mqtt.py eintragen.</br></br>
+
+
 Start Script:
 sudo nano /etc/systemd/system/service_name.service </br>
 sudo chomd 644/etc/systemd/system/service_name.service </br>
